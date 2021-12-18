@@ -18,7 +18,6 @@ module.exports = {
         quotes: ["error", "double"],
         semi: ["error", "always"],
         "no-var": ["error"],
-        "no-console": ["error"],
         "no-unused-vars": ["error"],
         "no-mixed-spaces-and-tabs": ["error"],
         "object-curly-spacing": ["error", "always"]
